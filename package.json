@@ -1,0 +1,19 @@
+{
+  "name": "nuLiga-crawler",
+  "version": "1.0.0",
+  "description": "Crawler to extract results from https://baden.liga.nu",
+  "repository": "git@gitlab.com:tc-76-heidelsheim/nuliga-crawler.git",
+  "author": "Heiko Pfahl <hpfahl@gmail.com>",
+  "private": true,
+  "bin": {
+    "nuliga": "./bin/cli.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-0",
+    "cheerio-tableparser": "^1.0.1",
+    "commander": "^4.1.1",
+    "jsonfile": "^5.0.0",
+    "lodash.zip": "^4.2.0"
+  }
+}
