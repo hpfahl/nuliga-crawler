@@ -1,6 +1,6 @@
 {
   "name": "nuliga-crawler",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Crawler to extract results from https://baden.liga.nu",
   "repository": "hpfahl/nuliga-crawler",
   "author": "Heiko Pfahl <hpfahl@gmail.com> (https://github.com/hpfahl)",
