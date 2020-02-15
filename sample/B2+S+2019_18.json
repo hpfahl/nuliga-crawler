@@ -1,0 +1,251 @@
+{
+  "standings": [
+    {
+      "Rang": "1",
+      "Mannschaft": "TC GW Gondelsheim 2",
+      "Begegnungen": "6",
+      "S": "6",
+      "U": "0",
+      "N": "0",
+      "Matches": "44:10",
+      "Sätze": "89:22",
+      "Games": "563:250"
+    },
+    {
+      "Rang": "2",
+      "Mannschaft": "TC 76 Heidelsheim 1",
+      "Begegnungen": "6",
+      "S": "5",
+      "U": "0",
+      "N": "1",
+      "Matches": "42:12",
+      "Sätze": "86:28",
+      "Games": "563:312"
+    },
+    {
+      "Rang": "3",
+      "Mannschaft": "TC GW Odenheim 1",
+      "Begegnungen": "6",
+      "S": "4",
+      "U": "0",
+      "N": "2",
+      "Matches": "31:23",
+      "Sätze": "65:55",
+      "Games": "451:435"
+    },
+    {
+      "Rang": "4",
+      "Mannschaft": "TC Kirrlach 2",
+      "Begegnungen": "6",
+      "S": "2",
+      "U": "0",
+      "N": "4",
+      "Matches": "21:33",
+      "Sätze": "48:72",
+      "Games": "439:519"
+    },
+    {
+      "Rang": "5",
+      "Mannschaft": "TC RW Karlsdorf 2",
+      "Begegnungen": "6",
+      "S": "1",
+      "U": "0",
+      "N": "5",
+      "Matches": "21:32",
+      "Sätze": "46:66",
+      "Games": "362:470"
+    },
+    {
+      "Rang": "6",
+      "Mannschaft": "TSG TC RW Kraichtal/TC GW Kraichtal 2",
+      "Begegnungen": "6",
+      "S": "1",
+      "U": "0",
+      "N": "5",
+      "Matches": "15:39",
+      "Sätze": "41:78",
+      "Games": "395:529"
+    },
+    {
+      "Rang": "7",
+      "Mannschaft": "FV Viktoria Ubstadt 2",
+      "Begegnungen": "6",
+      "S": "2",
+      "U": "0",
+      "N": "4",
+      "Matches": "14:39",
+      "Sätze": "31:85",
+      "Games": "312:570"
+    }
+  ],
+  "schedule": [
+    {
+      "Datum": "05.05.2019 09:30",
+      "Heimmannschaft": "TC GW Gondelsheim 2",
+      "Gastmannschaft": "FV Viktoria Ubstadt 2",
+      "Matches": "9:0",
+      "Sätze": "18:0",
+      "Games": "108:18"
+    },
+    {
+      "Datum": "05.05.2019 09:30",
+      "Heimmannschaft": "TC Kirrlach 2",
+      "Gastmannschaft": "TC RW Karlsdorf 2",
+      "Matches": "6:3",
+      "Sätze": "13:8",
+      "Games": "84:62"
+    },
+    {
+      "Datum": "12.05.2019 09:30",
+      "Heimmannschaft": "TSG TC RW Kraichtal/TC GW Kraichtal 2",
+      "Gastmannschaft": "TC Kirrlach 2",
+      "Matches": "2:7",
+      "Sätze": "6:14",
+      "Games": "71:94"
+    },
+    {
+      "Datum": "12.05.2019 09:30",
+      "Heimmannschaft": "FV Viktoria Ubstadt 2",
+      "Gastmannschaft": "TC RW Karlsdorf 2",
+      "Matches": "1:7",
+      "Sätze": "3:15",
+      "Games": "38:91"
+    },
+    {
+      "Datum": "12.05.2019 09:30",
+      "Heimmannschaft": "TC GW Odenheim 1",
+      "Gastmannschaft": "TC 76 Heidelsheim 1",
+      "Matches": "4:5",
+      "Sätze": "8:12",
+      "Games": "58:85"
+    },
+    {
+      "Datum": "19.05.2019 09:30",
+      "Heimmannschaft": "TC RW Karlsdorf 2",
+      "Gastmannschaft": "TC GW Gondelsheim 2",
+      "Matches": "3:6",
+      "Sätze": "6:12",
+      "Games": "46:74"
+    },
+    {
+      "Datum": "19.05.2019 09:30",
+      "Heimmannschaft": "TC GW Odenheim 1",
+      "Gastmannschaft": "FV Viktoria Ubstadt 2",
+      "Matches": "7:2",
+      "Sätze": "15:5",
+      "Games": "99:60"
+    },
+    {
+      "Datum": "19.05.2019 09:30",
+      "Heimmannschaft": "TC 76 Heidelsheim 1",
+      "Gastmannschaft": "TC Kirrlach 2",
+      "Matches": "8:1",
+      "Sätze": "16:3",
+      "Games": "106:68"
+    },
+    {
+      "Datum": "26.05.2019 09:30",
+      "Heimmannschaft": "TC 76 Heidelsheim 1",
+      "Gastmannschaft": "FV Viktoria Ubstadt 2",
+      "Matches": "9:0",
+      "Sätze": "18:1",
+      "Games": "107:34"
+    },
+    {
+      "Datum": "02.06.2019 09:30",
+      "Heimmannschaft": "TC RW Karlsdorf 2",
+      "Gastmannschaft": "TC GW Odenheim 1",
+      "Matches": "4:5",
+      "Sätze": "9:10",
+      "Games": "71:78"
+    },
+    {
+      "Datum": "02.06.2019 09:30",
+      "Heimmannschaft": "TC GW Gondelsheim 2",
+      "Gastmannschaft": "TSG TC RW Kraichtal/TC GW Kraichtal 2",
+      "Matches": "8:1",
+      "Sätze": "16:3",
+      "Games": "97:46"
+    },
+    {
+      "Datum": "23.06.2019 09:30",
+      "Heimmannschaft": "TSG TC RW Kraichtal/TC GW Kraichtal 2",
+      "Gastmannschaft": "TC 76 Heidelsheim 1",
+      "Matches": "0:9",
+      "Sätze": "2:18",
+      "Games": "42:109"
+    },
+    {
+      "Datum": "30.06.2019 09:30",
+      "Heimmannschaft": "TC 76 Heidelsheim 1",
+      "Gastmannschaft": "TC RW Karlsdorf 2",
+      "Matches": "8:1",
+      "Sätze": "16:2",
+      "Games": "102:28"
+    },
+    {
+      "Datum": "07.07.2019 09:30",
+      "Heimmannschaft": "TC GW Odenheim 1",
+      "Gastmannschaft": "TC GW Gondelsheim 2",
+      "Matches": "2:7",
+      "Sätze": "4:15",
+      "Games": "37:98"
+    },
+    {
+      "Datum": "07.07.2019 09:30",
+      "Heimmannschaft": "FV Viktoria Ubstadt 2",
+      "Gastmannschaft": "TC Kirrlach 2",
+      "Matches": "6:3",
+      "Sätze": "12:7",
+      "Games": "87:69"
+    },
+    {
+      "Datum": "07.07.2019 09:30",
+      "Heimmannschaft": "TC RW Karlsdorf 2",
+      "Gastmannschaft": "TSG TC RW Kraichtal/TC GW Kraichtal 2",
+      "Matches": "3:6",
+      "Sätze": "6:12",
+      "Games": "64:94"
+    },
+    {
+      "Datum": "14.07.2019 09:30",
+      "Heimmannschaft": "TSG TC RW Kraichtal/TC GW Kraichtal 2",
+      "Gastmannschaft": "TC GW Odenheim 1",
+      "Matches": "2:7",
+      "Sätze": "6:14",
+      "Games": "46:90"
+    },
+    {
+      "Datum": "14.07.2019 14:30",
+      "Heimmannschaft": "TC Kirrlach 2",
+      "Gastmannschaft": "TC GW Gondelsheim 2",
+      "Matches": "1:8",
+      "Sätze": "3:16",
+      "Games": "49:104"
+    },
+    {
+      "Datum": "21.07.2019 09:30",
+      "Heimmannschaft": "TC Kirrlach 2",
+      "Gastmannschaft": "TC GW Odenheim 1",
+      "Matches": "3:6",
+      "Sätze": "8:14",
+      "Games": "75:89"
+    },
+    {
+      "Datum": "21.07.2019 09:30",
+      "Heimmannschaft": "FV Viktoria Ubstadt 2",
+      "Gastmannschaft": "TSG TC RW Kraichtal/TC GW Kraichtal 2",
+      "Matches": "5:4",
+      "Sätze": "10:12",
+      "Games": "75:96"
+    },
+    {
+      "Datum": "21.07.2019 09:30",
+      "Heimmannschaft": "TC GW Gondelsheim 2",
+      "Gastmannschaft": "TC 76 Heidelsheim 1",
+      "Matches": "6:3",
+      "Sätze": "12:6",
+      "Games": "82:54"
+    }
+  ]
+}

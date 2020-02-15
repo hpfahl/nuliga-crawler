@@ -1,12 +1,33 @@
 {
-  "name": "nuLiga-crawler",
-  "version": "1.0.0",
+  "name": "nuliga-crawler",
+  "version": "0.1.0",
   "description": "Crawler to extract results from https://baden.liga.nu",
-  "repository": "git@gitlab.com:tc-76-heidelsheim/nuliga-crawler.git",
-  "author": "Heiko Pfahl <hpfahl@gmail.com>",
-  "private": true,
+  "repository": "hpfahl/nuliga-crawler",
+  "author": "Heiko Pfahl <hpfahl@gmail.com> (https://github.com/hpfahl)",
+  "license": "MIT",
+  "keywords": [
+    "nuliga",
+    "crawler",
+    "cli"
+  ],
+  "files": [
+    "bin/*",
+    "lib/*",
+    "LICENSE",
+    "README.md"
+  ],
+  "main": "./lib/Crawler.js",
   "bin": {
     "nuliga": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "npm run lint && jest",
+    "lint": "eslint lib bin test"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^2.0.2",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0"
   },
   "dependencies": {
     "axios": "^0.19.2",
@@ -15,5 +36,8 @@
     "commander": "^4.1.1",
     "jsonfile": "^5.0.0",
     "lodash.zip": "^4.2.0"
+  },
+  "engines": {
+    "node": ">= 10"
   }
 }
